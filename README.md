@@ -91,4 +91,3 @@ For this plugin I am grateful to the following:
 * Use technical cookies
 
 * Show a single number, as an alternative to the double number (Up adds, Down subtracts)
-# grav-plugin-thumb-ratings
